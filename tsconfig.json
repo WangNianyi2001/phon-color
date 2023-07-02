@@ -1,0 +1,16 @@
+{
+	"include": ["./src/"],
+	"compilerOptions": {
+		// Building options
+		"declaration": true,
+		"outDir": "./build",
+		// Environment
+		"target": "ESNext",
+		"lib": ["ESNext", "DOM"],
+		"module": "ESNext",
+		"moduleResolution": "NodeNext",
+		
+		// Grammar
+		"alwaysStrict": true
+	}
+}

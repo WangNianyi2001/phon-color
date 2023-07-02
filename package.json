@@ -1,0 +1,12 @@
+{
+	"type": "module",
+	"scripts": {
+		"dev": "npx vite dev"
+	},
+	"devDependencies": {
+		"@nianyi-wang/element": "^0.0.6",
+		"sass": "^1.57.1",
+		"typescript": "^4.9.4",
+		"vite": "^4.0.3"
+	}
+}
